@@ -1,0 +1,44 @@
+[
+  {
+    "_id": "book-1",
+    "title": "The Neural Path",
+    "author": "Iris Coleman",
+    "genre": "Science Fiction",
+    "description": "A data scientist discovers a hidden network that predicts human memory and must decide whether to share it with the world."
+  },
+  {
+    "_id": "book-2",
+    "title": "Silent Forest Algorithms",
+    "author": "R. K. Vale",
+    "genre": "Mystery",
+    "description": "A detective in a mountain village uses pattern recognition and old journals to solve disappearances connected to a forgotten library."
+  },
+  {
+    "_id": "book-3",
+    "title": "Pages of Light",
+    "author": "Mina Arora",
+    "genre": "Fantasy",
+    "description": "An apprentice archivist finds enchanted manuscripts that rewrite reality each time they are read aloud."
+  },
+  {
+    "_id": "book-4",
+    "title": "Practical Deep Learning for Makers",
+    "author": "Jonas Pratt",
+    "genre": "Technology",
+    "description": "Hands-on guide to building machine learning projects with clear code examples, experiments, and deployment tips."
+  },
+  {
+    "_id": "book-5",
+    "title": "The Last Bookmark",
+    "author": "Ella Montrose",
+    "genre": "Drama",
+    "description": "A family restores a historic bookstore while uncovering letters that reveal long-buried personal secrets."
+  },
+  {
+    "_id": "book-6",
+    "title": "Data Stories for Product Teams",
+    "author": "Nate Lumen",
+    "genre": "Business",
+    "description": "Explains how product teams can interpret analytics, user behavior, and feedback to design better experiences."
+  }
+]
